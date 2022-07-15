@@ -1,0 +1,60 @@
+.subscribe-button {
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.join-button{
+    background-color: white;
+    border-color: rgb(41, 118, 211);
+    border-style: solid;
+    border-width: 1px;
+    color:rgb(41, 118, 211);
+    height: 36px;
+    width: 63px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.tweet-button{
+    background-color: rgb(2, 158, 255);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 74px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.uber-button{
+    background-color: black;
+    border-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    margin-right: 8px;
+
+}
+
+.amazon-button{
+    background-color: rgb(255, 216, 20);
+    border: none;
+    color: black;
+    height: 36px;
+    width: 150px;
+    border-radius: 18px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+
+}
